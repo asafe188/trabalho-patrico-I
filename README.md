@@ -1,11 +1,16 @@
 # trabalho-patrico-I
 Curso:
+IHC 2024/2
 
 Integrantes:
+Felipe Rangel Silvestre
 
-Docente:
 
-Sistema: e-banking nubank
+Docente: 
+Andrey Rodrigues
+
+Sistema:
+e-banking nubank
 
 (Inserir objetivos do trabalho e especificar cada processo de avaliação)
 
