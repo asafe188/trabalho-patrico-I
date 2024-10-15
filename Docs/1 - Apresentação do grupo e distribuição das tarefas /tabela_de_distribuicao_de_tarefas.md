@@ -1,9 +1,15 @@
 
-- Apresentação do grupo e distribuição de tarefas 
-   - Dados do projeto
+ Apresentação do grupo e distribuição de tarefas
+  <br/>
+  
+Dados do projeto
+    <br/>
+    
 - Docente: 
   - Andrey Rodrigues
- - Equipe: 
+    <br/>
+    
+Equipe: 
 * A1: João Asafe Batista de Souza#22252494
 * A2: Felipe Rangel Silvestre#22400234
 * A3: Francisco Martins Rego Neto#22353932
