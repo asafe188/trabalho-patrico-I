@@ -26,7 +26,7 @@ O presente trabalho tem como objetivo fornecer uma análise do e-banking da Nuba
 acesse o link aqui
 
 # 2 Objetivo do sistema e perfil de usuários
-acesse o link ![Aqui]((https://github.com/FelpsRanger/trabalho-patrico-I/tree/main/docs/1%20-%20Apresenta%C3%A7%C3%A3o%20do%20grupo%20e%20distribui%C3%A7%C3%A3o%20das%20tarefas))
+acesse o link [Aqui](https://github.com/FelpsRanger/trabalho-patrico-I/tree/main/docs/1%20-%20Apresenta%C3%A7%C3%A3o%20do%20grupo%20e%20distribui%C3%A7%C3%A3o%20das%20tarefas)
 
 
 # 3 – Avaliação do Sistema
