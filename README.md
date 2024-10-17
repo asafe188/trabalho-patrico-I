@@ -19,6 +19,16 @@ Docente:
 Sistema:
 * e-banking nubank
 
-(Inserir objetivos do trabalho e especificar cada processo de avaliação)
+# OBEJETIVO DO TRABALHO
+O presente trabalho tem como objetivo fornecer uma análise do e-banking da Nubank, pelo método de avaliação inspeção e também o método MAC, onde a avaliação de inspeção consiste em um conjunto de princípios de usabilidade, que avaliam toda a interface do usuário, com o intuito de encontrar falhas. E ainda, o método MAC (Avaliação de Comunicabilidade) resume-se em um método de avaliação da comunicabilidade dos sistemas interativos fundamentado na engenharia semiótica. 
 
-(Organizar links que levam para cada relatório e produto produzido neste trabalho)
+# 1 – Apresentação do grupo e distribuição das tarefas
+acesse o link aqui
+
+# 2 Objetivo do sistema e perfil de usuários
+acesse o link ((https://github.com/FelpsRanger/trabalho-patrico-I/tree/main/docs/1%20-%20Apresenta%C3%A7%C3%A3o%20do%20grupo%20e%20distribui%C3%A7%C3%A3o%20das%20tarefas))
+
+
+# 3 – Avaliação do Sistema
+
+# 4 – Conclusões e Reflexões sobre o Aprendizado
