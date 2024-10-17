@@ -5,7 +5,7 @@ Um membro do grupo ficou responsavel pelo teste piloto seguindo a tarefas solici
 
 | TAREFA | DIFICULDADE | HEURÍSTICA | GRAU DE SEVERIDADE |
 |--------|-------------|------------|--------------------|
-| 1      | Localização poucointuitiva de funções financeiras | 4 | 2 |
+| 1      | Localização pouco intuitiva de funções financeiras | 4 | 2 |
 | 2      |Complexidade na gestão de segurança | 6 | 3 |
 | 3      | Bloqueio rápido e acessível do cartão físico| 3 |0 |
 | 4      | Dificuldade de localização da funcionalidade caixinha | 6 | 3 |
