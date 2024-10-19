@@ -5,6 +5,7 @@
 * o Preparação para o Teste
   foi repassado a tarefas do teste de usabildade para a Andressa para que ela pudesse fazer o passo a passo com antecendia para que tivessimos um feedbeck antes de aplicar o teste final com os usuarios selecionados.
 * o Teste Piloto
+  Teste realizado com sucesso, relatorio repassado juntamente com as 
   
 * o Execução do Teste
 * o Análise dos Resultados
