@@ -18,11 +18,12 @@ Equipe:
 <br/>
 
 Tarefas:
-* T1: Formatação do escopo do relatório 	 	  
-* T2: Objetivo gerais (trabalho e sistema)
-* T3: Documentação dos usuários-alvos
-* T4: Definição das tarefas/objetivos do usuário e para inspeção 
-* T5:
+* T1: criação e atualizações do repositório no github 	 	  
+* T2: Avaliação de comunicabilidade
+* T3: Avaliação UX
+* T4: Inspeção de usabilidade
+* T5: Teste de usabilidade
+* T6: Criação do Slide para apresentação
 
 <br/>
 
