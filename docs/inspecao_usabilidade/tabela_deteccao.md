@@ -1,31 +1,11 @@
 # DETECÇÃO
 
 Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve identificar potenciais problemas de usabilidade nas interações escolhidas.
-A1: Andressa
-A2:Joao Asafe
-A3: Felipe Rangel
+- A1:  João Asafe Batista de Souza #22252494
+- A2: Felipe Rangel Silvestre #22400234
+- A4: Andreza Rodrigues de Oliveira #22450924
 
 ### Inspetor : A1
-
-| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
-|----|-----------------------|----------------------|------------|---------------|
-|  1 |Localização pouco intuitiva de funções financeiras  | 4    |   2      |    |
-|  2 | Complexidade na gestão de segurança |         6      |        3    |      |
-|  3 | Bloqueio rápido acessível do cartão físico |      3   |      0  |         |
-|  4 | Dificuldade de localização da funcionalidade caixinha |    6  |   3 |     |
-|  5 | Falta de informação sobre erros financeiros |   9 |   0 |                 |
-|  6 | Reconhecimento em vez de memorização |    6  |   3 |                      |
-|  7 | Complexidade na gestão de segurança |   6  |   3 |                        |
-|  8 | Encerramento inesperado do aplicativo |    1  |   3 |                     |
-|  9 | Login rápido e intuitivo |    3 |   3 |                                   |
-
-
-
-
-
-
-
-### Inspetor : A2
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
@@ -39,7 +19,8 @@ A3: Felipe Rangel
 | 8  | O sistema tem uma mudança abrupta e não oferece uma saída mais ambientada.   | 1 |  2 |   
 |  9 |  O sistema demostra uma excelente usabilidade para o usuário e ajuda na proteção de dados pessoais.  |  3  |   | 
 
- ### Inspetor : A3
+
+### Inspetor : A2
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
@@ -52,4 +33,21 @@ A3: Felipe Rangel
 |  7 |                       |                      |            |               |
 |  8 |                       |                      |            |               |
 |  9 |                       |                      |            |               |
+
+
+
+ ### Inspetor : A4
+
+ | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+|----|-----------------------|----------------------|------------|---------------|
+|  1 |Localização pouco intuitiva de funções financeiras  | 4    |   2      |    |
+|  2 | Complexidade na gestão de segurança |         6      |        3    |      |
+|  3 | Bloqueio rápido acessível do cartão físico |      3   |      0  |         |
+|  4 | Dificuldade de localização da funcionalidade caixinha |    6  |   3 |     |
+|  5 | Falta de informação sobre erros financeiros |   9 |   0 |                 |
+|  6 | Reconhecimento em vez de memorização |    6  |   3 |                      |
+|  7 | Complexidade na gestão de segurança |   6  |   3 |                        |
+|  8 | Encerramento inesperado do aplicativo |    1  |   3 |                     |
+|  9 | Login rápido e intuitivo |    3 |   3 |                                   |
+
 
