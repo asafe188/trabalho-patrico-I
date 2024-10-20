@@ -24,15 +24,15 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
-|  4 |                       |                      |            |               |
-|  5 |                       |                      |            |               |
-|  6 |                       |                      |            |               |
-|  7 |                       |                      |            |               |
-|  8 |                       |                      |            |               |
-|  9 |                       |                      |            |               |
+|  1 |       funcção um pouco "escondida" mas não tão dificil de encontrar.                |         4             |      1      |               |
+|  2 |     função nao encontrada dentro do aplicativo.                   |           3 e 6           |        3    |               |
+|  3 |          função facilmente encontrada e realizada com sucesso.            |                      |            |               |
+|  4 |     Certa complexidade em encontrar a função e pouca informaçao de como executar.                   |           7           |     3       |               |
+|  5 |       ausência de informações coesas sobre a ação de resgate.                |             9         |      2      |               |
+|  6 |        Funcionalidade com certa facilidade de encontrar e executar.               |                      |            |               |
+|  7 |                   certa dificuldade em realizar a ação.    |              7        |    2        |               |
+|  8 |    função facil de encontrar e realizada com sucesso.                   |                      |            |               |
+|  9 |     login rápido.                 |                      |            |               |
 
 
 
