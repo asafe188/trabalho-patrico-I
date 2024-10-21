@@ -8,11 +8,13 @@ destacando insights relevantes sobre a experiência do usuário.
 
 
 
+*Usario 1
+
 
 | 1 | 2 |  3 |  4  | 5  |  6  | 7 |
 |-|-|-|-|-|-|----------------------|
-Desagradável ○ ○ ○ ○ ○ ○ ○ Agradável
-Incompreensível ○ ○ ○ ○ ○ ○ ○ Compreensível
+|Desagradável| ○| ○ |○| ○| ○ |○ |○| Agradável|
+|Incompreensível| ○ ○ ○ ○ ○ ○ ○ Compreensível|
 Criativo ○ ○ ○ ○ ○ ○ ○ Sem criatividade
 De Fácil aprendizagem ○ ○ ○ ○ ○ ○ ○ De difícil aprendizagem
 Valioso ○ ○ ○ ○ ○ ○ ○ Sem valor
